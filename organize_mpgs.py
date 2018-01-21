@@ -1,5 +1,10 @@
 #!/usr/bin/env python3
 
+"""
+Given organized speaker videos 0xx_talk_name/speaker
+move all related audio and presentation slides to directories
+audio, slides
+"""
 
 import os
 from shutil import move
