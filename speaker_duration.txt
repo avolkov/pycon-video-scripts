@@ -1,0 +1,70 @@
+Speaker duration
+================
+bert,stjohns,2017-11-18,114817.146370-0500,0.mpg Duration: 00:01:00.05, start: 11291.872000, bitrate: 28196 kb/s
+bert,stjohns,2017-11-18,114917.146064-0500,0.mpg Duration: 00:01:00.02, start: 11351.896000, bitrate: 28213 kb/s
+bert,stjohns,2017-11-18,115017.146082-0500,0.mpg Duration: 00:01:00.05, start: 11411.896000, bitrate: 28181 kb/s
+bert,stjohns,2017-11-18,115117.146339-0500,0.mpg Duration: 00:01:00.02, start: 11471.920000, bitrate: 28209 kb/s
+bert,stjohns,2017-11-18,115217.146164-0500,0.mpg Duration: 00:01:00.02, start: 11531.920000, bitrate: 28212 kb/s
+bert,stjohns,2017-11-18,115317.146216-0500,0.mpg Duration: 00:01:00.04, start: 11591.896000, bitrate: 28195 kb/s
+bert,stjohns,2017-11-18,115417.146498-0500,0.mpg Duration: 00:01:00.07, start: 11651.896000, bitrate: 28182 kb/s
+bert,stjohns,2017-11-18,115517.146064-0500,0.mpg Duration: 00:01:00.01, start: 11711.920000, bitrate: 28197 kb/s
+bert,stjohns,2017-11-18,115617.146132-0500,0.mpg Duration: 00:01:00.00, start: 11771.920000, bitrate: 28211 kb/s
+bert,stjohns,2017-11-18,115717.146127-0500,0.mpg Duration: 00:01:00.00, start: 11831.920000, bitrate: 28229 kb/s
+bert,stjohns,2017-11-18,115817.147134-0500,0.mpg Duration: 00:01:00.02, start: 11891.896000, bitrate: 28196 kb/s
+bert,stjohns,2017-11-18,115917.146677-0500,0.mpg Duration: 00:01:00.05, start: 11951.896000, bitrate: 28192 kb/s
+bert,stjohns,2017-11-18,120017.146271-0500,0.mpg Duration: 00:01:00.02, start: 12011.920000, bitrate: 28212 kb/s
+bert,stjohns,2017-11-18,120117.146095-0500,0.mpg Duration: 00:01:00.02, start: 12071.920000, bitrate: 28201 kb/s
+bert,stjohns,2017-11-18,120217.146329-0500,0.mpg Duration: 00:01:00.01, start: 12131.920000, bitrate: 28209 kb/s
+bert,stjohns,2017-11-18,120317.146173-0500,0.mpg Duration: 00:01:00.03, start: 12191.896000, bitrate: 28201 kb/s
+bert,stjohns,2017-11-18,120417.146133-0500,0.mpg Duration: 00:01:00.06, start: 12251.896000, bitrate: 28181 kb/s
+bert,stjohns,2017-11-18,120517.147853-0500,0.mpg Duration: 00:01:00.04, start: 12311.920000, bitrate: 28200 kb/s
+bert,stjohns,2017-11-18,120617.146047-0500,0.mpg Duration: 00:01:00.00, start: 12371.920000, bitrate: 28199 kb/s
+bert,stjohns,2017-11-18,120717.146079-0500,0.mpg Duration: 00:01:00.00, start: 12431.920000, bitrate: 28221 kb/s
+bert,stjohns,2017-11-18,120817.146063-0500,0.mpg Duration: 00:01:00.02, start: 12491.896000, bitrate: 28215 kb/s
+bert,stjohns,2017-11-18,120917.146139-0500,0.mpg Duration: 00:01:00.01, start: 12551.896000, bitrate: 28199 kb/s
+bert,stjohns,2017-11-18,121017.146188-0500,0.mpg Duration: 00:01:00.04, start: 12611.896000, bitrate: 28202 kb/s
+bert,stjohns,2017-11-18,121117.146203-0500,0.mpg Duration: 00:01:00.01, start: 12671.920000, bitrate: 28218 kb/s
+bert,stjohns,2017-11-18,121217.146156-0500,0.mpg Duration: 00:01:00.04, start: 12731.896000, bitrate: 28182 kb/s
+bert,stjohns,2017-11-18,121317.146307-0500,0.mpg Duration: 00:01:00.09, start: 12791.872000, bitrate: 28189 kb/s
+bert,stjohns,2017-11-18,121417.146117-0500,0.mpg Duration: 00:01:00.04, start: 12851.920000, bitrate: 28187 kb/s
+bert,stjohns,2017-11-18,121517.146097-0500,0.mpg Duration: 00:01:00.03, start: 12911.920000, bitrate: 28206 kb/s
+bert,stjohns,2017-11-18,121617.146089-0500,0.mpg Duration: 00:01:00.00, start: 12971.920000, bitrate: 28184 kb/s
+bert,stjohns,2017-11-18,121717.146279-0500,0.mpg Duration: 00:01:00.02, start: 13031.896000, bitrate: 28220 kb/s
+bert,stjohns,2017-11-18,121817.146180-0500,0.mpg Duration: 00:01:00.01, start: 13091.896000, bitrate: 28209 kb/s
+bert,stjohns,2017-11-18,121917.146412-0500,0.mpg Duration: 00:01:00.04, start: 13151.896000, bitrate: 28193 kb/s
+
+
+audio duration
+==============
+bert,audio,2017-11-18,114817.146104-0500,0.mpg Duration: 00:00:59.97, start: 13967.309333, bitrate: 336 kb/s
+bert,audio,2017-11-18,114917.146312-0500,0.mpg Duration: 00:00:59.97, start: 14027.320000, bitrate: 331 kb/s
+bert,audio,2017-11-18,115017.146058-0500,0.mpg Duration: 00:00:59.93, start: 14087.330667, bitrate: 338 kb/s
+bert,audio,2017-11-18,115117.146249-0500,0.mpg Duration: 00:00:59.99, start: 14147.298667, bitrate: 312 kb/s
+bert,audio,2017-11-18,115217.146572-0500,0.mpg Duration: 00:00:59.95, start: 14207.352000, bitrate: 315 kb/s
+bert,audio,2017-11-18,115317.146043-0500,0.mpg Duration: 00:00:59.97, start: 14267.341333, bitrate: 316 kb/s
+bert,audio,2017-11-18,115417.146429-0500,0.mpg Duration: 00:00:59.93, start: 14327.352000, bitrate: 319 kb/s
+bert,audio,2017-11-18,115517.146426-0500,0.mpg Duration: 00:00:59.95, start: 14387.320000, bitrate: 316 kb/s
+bert,audio,2017-11-18,115617.146107-0500,0.mpg Duration: 00:00:59.99, start: 14447.309333, bitrate: 315 kb/s
+bert,audio,2017-11-18,115717.146071-0500,0.mpg Duration: 00:00:59.97, start: 14507.341333, bitrate: 309 kb/s
+bert,audio,2017-11-18,115817.146944-0500,0.mpg Duration: 00:00:59.90, start: 14567.352000, bitrate: 302 kb/s
+bert,audio,2017-11-18,115917.146586-0500,0.mpg Duration: 00:00:59.84, start: 14627.298667, bitrate: 310 kb/s
+bert,audio,2017-11-18,120017.146053-0500,0.mpg Duration: 00:00:59.97, start: 14687.181333, bitrate: 306 kb/s
+bert,audio,2017-11-18,120117.146073-0500,0.mpg Duration: 00:00:59.90, start: 14747.192000, bitrate: 312 kb/s
+bert,audio,2017-11-18,120217.146071-0500,0.mpg Duration: 00:00:59.97, start: 14807.160000, bitrate: 314 kb/s
+bert,audio,2017-11-18,120317.146069-0500,0.mpg Duration: 00:01:00.01, start: 14867.170667, bitrate: 311 kb/s
+bert,audio,2017-11-18,120417.146123-0500,0.mpg Duration: 00:00:59.95, start: 14927.224000, bitrate: 311 kb/s
+bert,audio,2017-11-18,120517.146957-0500,0.mpg Duration: 00:00:59.97, start: 14987.213333, bitrate: 308 kb/s
+bert,audio,2017-11-18,120617.146045-0500,0.mpg Duration: 00:00:59.95, start: 15047.224000, bitrate: 302 kb/s
+bert,audio,2017-11-18,120717.146048-0500,0.mpg Duration: 00:00:59.95, start: 15107.213333, bitrate: 301 kb/s
+bert,audio,2017-11-18,120817.146063-0500,0.mpg Duration: 00:00:59.93, start: 15167.224000, bitrate: 307 kb/s
+bert,audio,2017-11-18,120917.146110-0500,0.mpg Duration: 00:00:59.95, start: 15227.213333, bitrate: 305 kb/s
+bert,audio,2017-11-18,121017.146133-0500,0.mpg Duration: 00:00:59.93, start: 15287.224000, bitrate: 302 kb/s
+bert,audio,2017-11-18,121117.146016-0500,0.mpg Duration: 00:00:59.90, start: 15347.213333, bitrate: 305 kb/s
+bert,audio,2017-11-18,121217.146180-0500,0.mpg Duration: 00:00:59.90, start: 15407.181333, bitrate: 305 kb/s
+bert,audio,2017-11-18,121317.146084-0500,0.mpg Duration: 00:00:59.95, start: 15467.149333, bitrate: 308 kb/s
+bert,audio,2017-11-18,121417.146096-0500,0.mpg Duration: 00:00:59.97, start: 15527.160000, bitrate: 311 kb/s
+bert,audio,2017-11-18,121517.146190-0500,0.mpg Duration: 00:00:59.95, start: 15587.192000, bitrate: 312 kb/s
+bert,audio,2017-11-18,121617.146238-0500,0.mpg Duration: 00:00:59.80, start: 15647.202667, bitrate: 311 kb/s
+bert,audio,2017-11-18,121717.146157-0500,0.mpg Duration: 00:00:59.99, start: 15707.064000, bitrate: 328 kb/s
+bert,audio,2017-11-18,121817.146089-0500,0.mpg Duration: 00:00:59.95, start: 15767.096000, bitrate: 377 kb/s
+bert,audio,2017-11-18,121917.146088-0500,0.mpg Duration: 00:00:59.75, start: 15827.106667, bitrate: 271 kb/s
